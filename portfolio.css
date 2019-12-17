@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Alex+Brush&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Capriola&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cookie&display=swap');
+
+*{
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.name{
+	font-family: cookie, cursive;
+	font-size: 75px;
+	text-align: center;
+	color: #1089ff;
+	border-bottom: 0px;
+}
+body{
+	background-color: #eeeeee;
+}
+p{
+	font-family: Capriola;
+	color:#1089ff;
+	text-align: justify;
+}
+
+header{
+	background-color: #e5e5e5;
+	border:0px;
+}
+a{
+	text-decoration: none;
+}
+p>a{
+	color: #23374d;
+	margin:0px;
+}
+li > a{
+	text-decoration: none;
+	color: #23374d;
+
+}
+img{
+	float: left;
+	border-radius: 50%;
+	width:200px;
+	height: 200px;
+	margin:20px;
+	margin-right: 25px;
+}
+
+nav a:hover{
+	background-color:#23374d ;
+	color: #eeeeee;
+}
+
+ul > li{
+	font-variant:small-caps;
+	display: inline-block;
+	font-size: 24px;
+	list-style: none; 
+}
+
+footer img{
+	width: 20px;
+	height: 20px;
+	margin:5px;
+	padding: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
